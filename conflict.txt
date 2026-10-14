@@ -1,1 +1,3 @@
-﻿main branch version
+﻿Resolved version:
+- main branch version
+- conflict-demo branch version
